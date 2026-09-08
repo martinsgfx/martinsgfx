@@ -60,24 +60,7 @@ with a simple and accessible digital learning experience.
 
 ---
 
-## 💧 Blue
-
-A modern landing page for a water-delivery application,
-designed around a clean and intuitive user experience.
-
-**Tech:** HTML · CSS · JavaScript
-
-**Highlights**
-- Responsive landing page
-- Product-focused design
-- Clear call-to-action sections
-- Mobile-friendly layout
-
-
-
----
-
-## 🎮 Watch2Earn
+## 🎮 NativeEarn
 
 A gamified video platform where users can watch content
 and earn rewards.
@@ -92,24 +75,6 @@ can be incorporated into a web experience.
 - Gamification
 - Reward-focused user experience
 - Responsive interface
-
-
-
----
-
-## 🧩 Lobe UI
-
-A frontend implementation focused on recreating a polished
-modern interface from its visual design.
-
-**Tech:** HTML · CSS · JavaScript
-
-**Highlights**
-- Responsive layouts
-- Detailed UI implementation
-- Component-based structure
-- Desktop and mobile experiences
-
 
 
 ---
@@ -146,6 +111,40 @@ through a modern and responsive digital storefront.
 - Modern shopping experience
 
 [View Project →](https://walosh.netlify.app/)
+
+
+
+---
+
+## 🧩 Lobe UI
+
+A frontend implementation focused on recreating a polished
+modern interface from its visual design.
+
+**Tech:** HTML · CSS · JavaScript
+
+**Highlights**
+- Responsive layouts
+- Detailed UI implementation
+- Component-based structure
+- Desktop and mobile experiences
+
+
+---
+
+## 💧 Blue
+
+A modern landing page for a water-delivery application,
+designed around a clean and intuitive user experience.
+
+**Tech:** HTML · CSS · JavaScript
+
+**Highlights**
+- Responsive landing page
+- Product-focused design
+- Clear call-to-action sections
+- Mobile-friendly layout
+
 
 ---
 
