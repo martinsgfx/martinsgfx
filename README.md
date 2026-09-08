@@ -2,23 +2,24 @@
 
 ### Frontend Developer & UI Designer
 
-I build responsive, user-focused web experiences with
-JavaScript and React, combining frontend engineering with
-a strong background in UI design.
+I build responsive, user-focused digital experiences
+with a strong focus on frontend development, interface
+design, and visual details.
 
-I enjoy turning ideas and designs into clean, functional,
-and intuitive digital products.
+My background in design influences how I approach
+development — from layout and typography to interaction
+and responsive behaviour.
 
 ---
 
-## 🚀 What I Do
+## 🚀 About Me
 
-- Frontend Development
-- UI/UX Design
-- Responsive Web Design
-- React Development
-- Product Interface Design
-- Motion & Visual Design
+- 💻 Frontend Developer
+- 🎨 UI Designer
+- ⚛️ React & JavaScript
+- 📱 Responsive Web Development
+- 🧩 Interested in building digital products
+- 🎯 Focused on creating clean and intuitive user experiences
 
 ---
 
@@ -40,118 +41,152 @@ and intuitive digital products.
 
 ---
 
-## ⭐ Featured Projects
+# 🚀 Featured Projects
 
-### 🎓 Access2Edu
+## 🎓 Access2Edu
 
-An educational web application designed to provide
-students with a simple and accessible digital learning
-experience.
+An educational platform designed to provide students
+with a simple and accessible digital learning experience.
 
-**Built with:** React, JavaScript, CSS
+**Tech:** React · JavaScript · CSS
 
-[View Project →](#)
+**Highlights**
+- Responsive interface
+- Student-focused experience
+- Authentication and user flows
+- Reusable UI components
 
----
 
-### 💧 Blue
-
-A modern water-delivery web experience focused on clean
-visual design, responsive layouts, and a simple user
-experience.
-
-**Built with:** HTML, CSS, JavaScript
-
-[View Project →](#)
 
 ---
 
-### ✅ Todo App
+## 💧 Blue
 
-A responsive task management application featuring
-CRUD operations, search, filtering, pagination, and
-persistent browser storage.
+A modern landing page for a water-delivery application,
+designed around a clean and intuitive user experience.
 
-**Built with:** React, JavaScript, Dexie, IndexedDB
+**Tech:** HTML · CSS · JavaScript
 
-[View Project →](#)
+**Highlights**
+- Responsive landing page
+- Product-focused design
+- Clear call-to-action sections
+- Mobile-friendly layout
 
----
 
-### 💍 Weddn
-
-A digital wedding platform concept designed to help couples
-create, manage, and organize their wedding experience
-through one platform.
-
-**Built with:** React, JavaScript, CSS
-
-[View Project →](#)
 
 ---
 
-### 🎟️ Ticketing Dashboard
+## 🎮 Watch2Earn
 
-A dashboard interface for monitoring ticketing activity,
-including clicks, bookings, earnings, filtering, tables,
-and data visualization.
+A gamified video platform where users can watch content
+and earn rewards.
 
-**Built with:** React, JavaScript, CSS
+The project explores how gamification and reward systems
+can be incorporated into a web experience.
 
-[View Project →](#)
+**Tech:** React · JavaScript · CSS
 
----
+**Highlights**
+- Video-based experience
+- Gamification
+- Reward-focused user experience
+- Responsive interface
 
-### 🧩 Lobe UI
 
-A frontend recreation focused on translating a visual
-interface into a responsive and functional web experience.
-
-**Built with:** HTML, CSS, JavaScript
-
-[View Project →](#)
 
 ---
 
-## 🎨 Design + Code
+## 🧩 Lobe UI
 
-My background in design influences how I approach frontend
-development.
+A frontend implementation focused on recreating a polished
+modern interface from its visual design.
+
+**Tech:** HTML · CSS · JavaScript
+
+**Highlights**
+- Responsive layouts
+- Detailed UI implementation
+- Component-based structure
+- Desktop and mobile experiences
+
+
+
+---
+
+## 🏗️ Arahaus
+
+A coming-soon experience created for the Arahaus brand,
+focused on creating a strong visual introduction before
+the full product launch.
+
+**Tech:** HTML · CSS · JavaScript
+
+**Highlights**
+- Brand-focused design
+- Responsive layout
+- Marketing interface
+- Coming-soon experience
+
+[View Project →](https://arahaus.com/)
+
+---
+
+## 👕 Walosh
+
+A clothing website designed to showcase fashion products
+through a modern and responsive digital storefront.
+
+**Tech:** HTML · CSS · JavaScript
+
+**Highlights**
+- Fashion/product presentation
+- Responsive design
+- Product-focused interface
+- Modern shopping experience
+
+[View Project →](https://walosh.netlify.app/)
+
+---
+
+# 🎨 Design Meets Development
+
+I approach frontend development from both a technical
+and visual perspective.
 
 I care about:
 
-- Visual hierarchy
-- Typography
-- Spacing
+- Clean interfaces
 - Responsive layouts
-- Component structure
-- Accessibility
+- Typography
+- Visual hierarchy
+- Spacing and composition
 - User experience
-- Clean and maintainable code
+- Reusable components
+- Maintainable code
 
 ---
 
-## 📌 Currently Building
+# 📚 Currently Learning
 
-I'm continuing to improve my frontend engineering skills
-while building practical products that combine thoughtful
-design with functional technology.
+I'm continuously improving my frontend engineering skills
+and exploring better ways to build scalable, accessible,
+and visually polished web applications.
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
-I'm open to opportunities involving frontend development,
+I'm open to opportunities in frontend development,
 UI design, and digital product development.
 
-📧 Email: [your email]
+📧 Email: martos.stifler@gmail.com
 
-🌐 Portfolio: [your portfolio]
+💼 LinkedIn: (https://www.linkedin.com/in/martins-akinnuwesi-8b8b401b3/)
 
-💼 LinkedIn: [your LinkedIn]
-
-𝕏 X: [@martinsgfx](#)
+𝕏 X: @martinsgfx
 
 ---
 
-### Thanks for visiting 👋
+⭐ If you find my work interesting, feel free to explore
+my repositories and projects.
